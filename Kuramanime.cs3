@@ -1,0 +1,109 @@
+// !Cloudstream
+
+import com.lagradost.cloudstream3.*
+import com.lagradost.cloudstream3.utils.*
+
+class Kuramanime : MainAPI() {
+    override var mainUrl = "https://kuramanime.com"
+    override var name = "Kuramanime"
+    override val hasMainPage = true
+    override var lang = "id"
+    override val supportedTypes = setOf(
+        TvType.Anime
+    )
+
+    override val mainPage = mainPageOf(
+        "$mainUrl/anime" to "Anime Terbaru"
+    )
+
+    override suspend fun getMainPage(
+        page: Int,
+        request: MainPageRequest
+    ): HomePageResponse {
+        val document = app.get(request.data).document
+        val items = document.select("div.anime-list a").mapNotNull {
+            val title = it.selectFirst("h3")?.text() ?: return@mapNotNull null
+            val link = fixUrl(it.attr("href"))
+            val poster = it.selectFirst("img")?.attr("src")
+            AnimeSearchResponse(
+                title,
+                link,
+                TvType.Anime,
+                poster
+            )
+        }
+        return HomePageResponse(
+            listOf(
+                HomePageList(
+                    request.name,
+                    items
+                )
+            )
+        )
+    }
+
+    override suspend fun search(query: String): List<SearchResponse> {
+        val document = app.get("$mainUrl/?s=$query").document
+        return document.select("div.anime-list a").mapNotNull {
+            val title = it.selectFirst("h3")?.text() ?: return@mapNotNull null
+            val link = fixUrl(it.attr("href"))
+            val poster = it.selectFirst("img")?.attr("src")
+            AnimeSearchResponse(
+                title,
+                link,
+                TvType.Anime,
+                poster
+            )
+        }
+    }
+
+    override suspend fun load(url: String): LoadResponse {
+        val document = app.get(url).document
+        val title = document.selectFirst("h1")?.text() ?: "Unknown"
+        val poster = document.selectFirst("img")?.attr("src")
+        val description = document.selectFirst("div.sinopsis")?.text()
+
+        val episodes = document.select("ul.episode-list a").mapIndexed { index, it ->
+            Episode(
+                fixUrl(it.attr("href")),
+                it.text(),
+                index + 1
+            )
+        }
+
+        return AnimeLoadResponse(
+            title,
+            url,
+            TvType.Anime,
+            episodes
+        ).apply {
+            this.posterUrl = poster
+            this.plot = description
+        }
+    }
+
+    override suspend fun loadLinks(
+        data: String,
+        isCasting: Boolean,
+        subtitleCallback: (SubtitleFile) -> Unit,
+        callback: (ExtractorLink) -> Unit
+    ): Boolean {
+        val document = app.get(data).document
+        document.select("iframe").forEach {
+            val src = it.attr("src")
+            if (src.isNotEmpty()) {
+                callback(
+                    ExtractorLink(
+                        name,
+                        name,
+                        src,
+                        "",
+                        Qualities.Unknown.value,
+                        false
+                    )
+                )
+            }
+        }
+        return true
+    }
+}
