@@ -1,0 +1,12 @@
+{
+  "name": "Repo Kuramanime Indonesia",
+  "description": "Repositori ekstensi CloudStream khusus Kuramanime (Anime Subtitle Indonesia)",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "Kuramanime",
+      "url": "https://raw.githubusercontent.com/modegalau657-lgmt/ExtKuramanime/main/Kuramanime.cs3",
+      "version": 1
+    }
+  ]
+    }
