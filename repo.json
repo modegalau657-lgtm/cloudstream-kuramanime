@@ -1,0 +1,9 @@
+
+{
+  "name": "Alivsc",
+  "description": "Repo ekstensi CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/plugin.json"
+  ]
+}
