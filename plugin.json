@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/KuramanimeProvider.cs3",
+    "status": 1,
+    "version": 47,
+    "apiVersion": 1,
+    "name": "Kuramanime",
+    "internalName": "Kuramanime",
+    "authors": ["Hexated and Alivsc"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie","Anime","OVA"],
+    "description": "ukuran 30,96KB"
+  }
+]
