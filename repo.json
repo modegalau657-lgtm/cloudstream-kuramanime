@@ -1,6 +1,7 @@
 
 {
   "name": "Alivsc2",
+  "iconUrl": "https://raw.githubusercontent.com/fadzdigital/Nekobox/refs/heads/main/images/favicon.png",
   "description": "Repo ekstensi CloudStream",
   "manifestVersion": 1,
   "pluginLists": [
