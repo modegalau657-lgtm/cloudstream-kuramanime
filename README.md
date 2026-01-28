@@ -1,6 +1,6 @@
 <div align="center">
 
-# *Kuramanime, donghub-Extensions*
+# *VscCloud-Extensions*
 
 ##
 
