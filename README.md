@@ -23,3 +23,18 @@ https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𝒕𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 Alivsc
 
 ![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
+# VscCloud
+
+Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
+
+| Nama Ekstensi | Status |
+| ------------- | ------ |
+| Kuramanime    | Jalan  |
+| Donghub       | Jalan  |
+
+---
+
+**Catatan:**
+
+* Status **Jalan** berarti ekstensi dapat digunakan dengan normal.
+* Jika terjadi perubahan status, silakan cek pembaruan repository.
