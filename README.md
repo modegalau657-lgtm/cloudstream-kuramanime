@@ -1,6 +1,6 @@
 <div align="center">
 
-# *Kuramanime-Extensions*
+# *Kuramanime, donghub-Extensions*
 
 ##
 
