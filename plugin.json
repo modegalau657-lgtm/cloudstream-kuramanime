@@ -22,7 +22,7 @@
     "internalName": "Donghub",
     "authors": ["duro92, Alivsc"],
     "language": "id",
-    "tvTypes": ["AnimeMovie", "Anime"],
+    "tvTypes": ["AnimeMovie", "Anime", "Donghua"],
     "fileSize": 20200,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/donghub.jpg",
     "description": "Donghub Sub Indo"
