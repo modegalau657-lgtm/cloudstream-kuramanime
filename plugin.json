@@ -16,14 +16,14 @@
   {
     "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/Donghub.cs3",
     "status": 1,
-    "version": 1,
+    "version": 6,
     "apiVersion": 1,
     "name": "Donghub",
     "internalName": "Donghub",
-    "authors": ["duro99, Alivsc"],
+    "authors": ["duro92, Alivsc"],
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime"],
-    "fileSize": 0,
+    "fileSize": 20000,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/logo-full-256.png",
     "description": "Donghub Sub Indo"
   }
