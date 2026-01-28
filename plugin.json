@@ -7,9 +7,12 @@
     "name": "Kuramanime",
     "internalName": "Kuramanime",
     "authors": ["Hexated and Alivsc"],
-    "file size": 30960,
     "language": "id",
     "tvTypes": ["AnimeMovie","Anime","OVA"],
+    "fileSize": 30960,
+    "iconUrl":
+"https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/logo-full-256.png"
+,
     "description": "ukuran 30,96KB"
   }
 ]
