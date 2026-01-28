@@ -15,6 +15,18 @@
 
 https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/repo.json
 
+# VscCloud
+
+Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
+
+| Nama Ekstensi | Status |
+| ------------- | ------ |
+| Kuramanime    | Jalan  |
+| Donghub       | Jalan  |
+
+---
+
+
 ⚠︎ kalau mau u͟p͟d͟a͟t͟e͟ sendiri, silahkan forks
    lalu ganti versi
 
