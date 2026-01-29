@@ -40,5 +40,19 @@
     "fileSize": 24970,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/kuronime.jpg",
     "description": "kuronime Sub indo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/AnichinMoe.cs3",
+    "status": 1,
+    "version": 25,
+    "apiVersion": 1,
+    "name": "Anichimoe",
+    "internalName": "Anichimoe",
+    "authors": ["Duro92", "Alivsc", "CodeSanzz"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie", "Anime", "OVA", "Donghua"],
+    "fileSize": 31640,
+    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/anichin.png",
+    "description": "Anichimoe sub indo"
   }
 ]
