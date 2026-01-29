@@ -26,5 +26,19 @@
     "fileSize": 20200,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/donghub.jpg",
     "description": "Donghub Sub Indo"
-  }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/KuronimeProvider.cs3",
+    "status": 1,
+    "version": 21,
+    "apiVersion": 1,
+    "name": "kuronime",
+    "internalname": "kuronime",
+    "authors": ["Hexated, Alivsc"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
+    "fileSize": 24970,
+    "iconurl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/kuronime.jpg",
+    "description": "kuronime Sub indo"
+  },
 ]
