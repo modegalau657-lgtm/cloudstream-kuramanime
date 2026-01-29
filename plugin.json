@@ -33,7 +33,7 @@
     "version": 21,
     "apiVersion": 1,
     "name": "kuronime",
-    "internalname": "kuronime",
+    "internalName": "kuronime",
     "authors": ["Hexated, Alivsc"],
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA"],
