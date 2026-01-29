@@ -23,6 +23,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | ------------- | ------ |
 | Kuramanime    | butuh VPN, link error |
 | Donghub       | Jalan  |
+| Kuronime      | jalan  |
 
 ---
 
