@@ -40,6 +40,8 @@ https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/
 7. Pilih ekstensi yang ingin Anda instal dan klik "Instal".
 ##
 
+## 📝Catatan
+
 ⚠︎ kalau mau u͟p͟d͟a͟t͟e͟ sendiri, silahkan forks
    lalu ganti versi
 
