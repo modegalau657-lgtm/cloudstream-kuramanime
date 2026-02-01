@@ -138,19 +138,5 @@
     "fileSize": 16830,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/animesail.png",
     "description": "AnimeSail sub indo"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Donghuastream.cs3",
-    "status": 1,
-    "version": 3,
-    "apiVersion": 1,
-    "name": "Donghuastream",
-    "internalName": "Donghuastream",
-    "authors": ["Phisher98", "Alivsc"],
-    "language": "zh",
-    "tvTypes": ["Donghua", "Anime"],
-    "fileSize": 35870,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/DonghuaStream.png",
-    "description": "Contains Sea Tv (Chinese)"
-  }
+  }
 ]
