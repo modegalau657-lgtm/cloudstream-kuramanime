@@ -78,7 +78,7 @@
     "internalName": "Dutamovie",
     "authors": ["duro92","Alivsc"],
     "language": "id",
-    "tvTypes": ["TvSeries", "AsianDrama", "movies"],
+    "tvTypes": ["anime", "TvSeries", "AsianDrama", "movies"],
     "fileSize": 32450,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/dutamovie.jpg",
     "description": "dutamovie sub indo"
@@ -92,7 +92,7 @@
     "internalName": "Melongmovie",
     "authors": ["duro92","Alivsc"],
     "language": "id",
-    "tvTypes": ["TvSeries", "AsianDrama", "movies"],
+    "tvTypes": ["TvSeries", "Anime", "movies", "AsianDrama],
     "fileSize": 22380,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/melongmovie.jpg",
     "description": "MelongMovie sub indo"
