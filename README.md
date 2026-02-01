@@ -17,7 +17,6 @@
 https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/repo.json
 ```
 
----
 
 Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 
@@ -29,7 +28,6 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Anichin       | Jalan  |
 | Idlix         | Jalan  |
 
----
 
 
 ⚠︎ kalau mau u͟p͟d͟a͟t͟e͟ sendiri, silahkan forks
