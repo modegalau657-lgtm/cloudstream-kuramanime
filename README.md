@@ -11,7 +11,7 @@
 
 
 
-𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙡𝙞𝙣𝙠:
+🔗𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙡𝙞𝙣𝙠:
 
 ```html
 https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/repo.json
