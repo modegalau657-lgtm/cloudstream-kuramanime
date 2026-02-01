@@ -14,7 +14,8 @@
 1.  Buka aplikasi CloudStream.
 2.  Buka menu "Ekstensi".
 3.  Klik tombol "Tambahkan Repositori".
-4.  Masukkan URL repositori IndoStream:```html
+4.  Masukkan URL repositori IndoStream:
+```html
 https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/repo.json
 ``` 
 5.  Klik "Tambahkan".
