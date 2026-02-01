@@ -9,7 +9,17 @@
 
 
 
+## Cara Menggunakan
 
+1.  Buka aplikasi CloudStream.
+2.  Buka menu "Ekstensi".
+3.  Klik tombol "Tambahkan Repositori".
+4.  Masukkan URL repositori IndoStream:```html
+https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/repo.json
+``` 
+5.  Klik "Tambahkan".
+6.  Ekstensi yang tersedia akan muncul di daftar.
+7.  Pilih ekstensi yang ingin Anda instal dan klik "Instal".
 
 🔗𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙡𝙞𝙣𝙠:
 
