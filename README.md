@@ -28,6 +28,9 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Kuronime      | Jalan  |
 | Anichin       | Jalan  |
 | Idlix         | Jalan  |
+| DutaMovie     | Jalan  |
+| Melongmovie   | Jalan  |
+| Oploverz      | Jalan  | 
 
 
 
