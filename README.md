@@ -24,13 +24,14 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Nama Ekstensi | Status |
 | ------------- | ------ |
 | Kuramanime    | butuh VPN, link error |
-| Donghub       | Jalan  |
+| Donghub       | Jalan√  |
 | Kuronime      | Jalan  |
 | Anichin       | Jalan  |
 | Idlix         | Jalan  |
 | DutaMovie     | Jalan  |
 | Melongmovie   | Jalan  |
-| Oploverz      | Jalan  | 
+| Oploverz      | Jalan  |
+| Animasu       | Jalan  |
 
 
 
