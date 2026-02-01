@@ -25,6 +25,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Melongmovie   | Bekerja  |
 | Oploverz      | Bekerja  |
 | Animasu       | Bekerja  |
+| AnimeSail     | Bekerja  |
 
 ## 📌Cara Menggunakan
 
