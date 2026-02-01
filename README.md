@@ -25,6 +25,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Donghub       | Jalan  |
 | Kuronime      | Jalan  |
 | Anichin       | Jalan  |
+| Idlix         | Jalan  |
 
 ---
 
