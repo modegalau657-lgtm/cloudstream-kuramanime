@@ -26,7 +26,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Oploverz      | Bekerja  |
 | Animasu       | Bekerja  |
 
-## Cara Menggunakan
+## 📌Cara Menggunakan
 
 1. Buka aplikasi CloudStream.
 2. Buka menu "Ekstensi".
