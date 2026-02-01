@@ -82,5 +82,19 @@
     "fileSize": 22381,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/melongmovie.jpg",
     "description": "Melongmovie sub indo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Dutamovie.cs3",
+    "status": 1,
+    "version": 16,
+    "apiVersion": 1,
+    "name": "Dutamovie",
+    "internalName": "Dutamovie",
+    "authors": ["Hexated","duro92","Alivsc"],
+    "language": "id",
+    "tvTypes": ["TvSeries",  "OVA", "Movie","AsianDrama"],
+    "fileSize": 32450,
+    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/dutamovie.jpg",
+    "description": "Dutamovie sub indo"
   }
 ]
