@@ -68,19 +68,5 @@
     "fileSize": 27770,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Idlix.jpg",
     "description": "Idlix sub indo"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Dutamovie.cs3",
-    "status": 1,
-    "version": 16,
-    "apiVersion": 1,
-    "name": "Dutamovie",
-    "internalName": "Dutamovie",
-    "authors": ["duro92","Alivsc"],
-    "language": "id",
-    "tvTypes": ["anime", "TvSeries", "AsianDrama", "movies"],
-    "fileSize": 32450,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/dutamovie.jpg",
-    "description": "dutamovie sub indo"
-  }
+  }
 ]
