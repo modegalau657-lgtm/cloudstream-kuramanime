@@ -21,17 +21,17 @@ https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/
 
 Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 
-| Nama Ekstensi | Status |
+| 𝘕𝘢𝘮𝘢 𝘌𝘹𝘵𝘦𝘯𝘴𝘪 | 𝘚𝘵𝘢𝘵𝘶𝘴 |
 | ------------- | ------ |
 | Kuramanime    | butuh VPN, link error |
-| Donghub       | Jalan  |
-| Kuronime      | Jalan  |
-| Anichin       | Jalan  |
-| Idlix         | Jalan  |
-| DutaMovie     | Jalan  |
-| Melongmovie   | Jalan  |
-| Oploverz      | Jalan  |
-| Animasu       | Jalan  |
+| Donghub       | BekerJa  |
+| Kuronime      | BekerJa  |
+| Anichin       | BekerJa  |
+| Idlix         | BekerJa  |
+| DutaMovie     | BekerJa  |
+| Melongmovie   | BekerJa  |
+| Oploverz      | BekerJa  |
+| Animasu       | BekerJa  |
 
 
 
