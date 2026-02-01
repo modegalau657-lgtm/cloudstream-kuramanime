@@ -41,7 +41,3 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 ![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
 
 ---
-
-![hatsune](https://www.mordeo.org/files/uploads/2019/11/Anime-Girl-Hatsune-Miku-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg)
-
----
