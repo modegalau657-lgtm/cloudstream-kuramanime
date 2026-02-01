@@ -124,5 +124,19 @@
     "fileSize": 23100,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/animasu.png",
     "description": "Animasu sub indo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/AnimeSailProvider.cs3",
+    "status": 1,
+    "version": 12,
+    "apiVersion": 1,
+    "name": "AnimeSail",
+    "internalName": "AnimeSail",
+    "authors": ["Hexated", "Alivsc", "Sofie"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
+    "fileSize": 16830,
+    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/animesail.png",
+    "description": "AnimeSail sub indo"
   }
 ]
