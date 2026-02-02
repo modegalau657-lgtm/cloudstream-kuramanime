@@ -152,5 +152,19 @@
     "fileSize": 35870,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/DonghuaStream.png",
     "description": "Contains Sea TV (Chinese)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Samehadaku.cs3",
+    "status": 1,
+    "version": 24,
+    "apiVersion": 1,
+    "name": "samehadaku",
+    "internalName": "Samehadaku",
+    "authors": ["Hexated", "Alivsc", "Sofie"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
+    "fileSize": 17430,
+    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/128x128.png",
+    "description": "Samehadaku sub indo"
   }
 ]
