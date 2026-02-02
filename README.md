@@ -26,6 +26,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Oploverz      | Bekerja  |
 | Animasu       | Bekerja  |
 | AnimeSail     | Bekerja  |
+| Samehadaku    | Bekerja  |
 
 ## 📌Cara Menggunakan
 
