@@ -166,5 +166,19 @@
     "fileSize": 17430,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/128x128.png",
     "description": "Samehadaku sub indo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Nekopoi.cs3",
+    "status": 1,
+    "version": 7,
+    "apiVersion": 1,
+    "name": "Nekopoi",
+    "internalName": "Nekopoi",
+    "authors": ["Hexated", "Alivsc", "TeKuma25"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
+    "fileSize": 24160,
+    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Nekopoi.jpg",
+    "description": "Nekopoi.care"
   }
 ]
