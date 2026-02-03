@@ -190,7 +190,7 @@
     "internalName": "MovieBox",
     "authors": ["NivinCNC", "Phisher98", "Alivsc"],
     "language": "id",
-    "tvTypes": ["AnimeMovie", "Anime", "OVA", "Movie", "TvSeries"],
+    "tvTypes": ["AnimeMovie", "Anime", "NSFW", "Movie", "TvSeries"],
     "fileSize": 31850,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/MovieBox.png",
     "description": "MovieBox all sub"
