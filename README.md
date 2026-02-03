@@ -28,7 +28,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Animasu       | Bekerja  |
 | AnimeSail     | Bekerja  |
 | Samehadaku    | Bekerja  |
-| Nekopoi       | Butuh VPN |
+| Nekopoi       | Bekerja |
 
 ## 📌Cara Menggunakan
 
