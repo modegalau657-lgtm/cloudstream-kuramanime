@@ -180,5 +180,19 @@
     "fileSize": 24160,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Nekopoi.jpg",
     "description": "Nekopoi.care"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/MovieBoxProvider.cs3",
+    "status": 1,
+    "version": 6,
+    "apiVersion": 1,
+    "name": "MovieBox",
+    "internalName": "MovieBox",
+    "authors": ["Hexated", "Alivsc", "Sofie"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie", "Anime", "OVA", "Movie", "TvSeries"],
+    "fileSize": 31850,
+    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/MovieBox.png",
+    "description": "MovieBox all sub"
   }
 ]
