@@ -188,7 +188,7 @@
     "apiVersion": 1,
     "name": "MovieBox",
     "internalName": "MovieBox",
-    "authors": ["Hexated", "Alivsc", "Sofie"],
+    "authors": ["NivinCNC", "Phisher98", "Alivsc"],
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA", "Movie", "TvSeries"],
     "fileSize": 31850,
