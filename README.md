@@ -23,6 +23,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Idlix         | Bekerja  |
 | DutaMovie     | Bekerja  |
 | Melongmovie   | Bekerja  |
+| MovieBox      | Bekerja  |
 | Oploverz      | Bekerja  |
 | Animasu       | Bekerja  |
 | AnimeSail     | Bekerja  |
