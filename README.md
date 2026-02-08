@@ -20,9 +20,11 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Animasu       | Bekerja  |
 | AnimeSail     | Bekerja  |
 | Donghub       | Bekerja  |
+| Dubbindo      | Bekerja  |
 | DutaMovie     | Bekerja  |
 | Donghuastream | Bekerja  |
 | Funmovieslix  | Bekerja  |
+| Filmkita      | Bekerja  |
 | Idlix         | Bekerja  |
 | Kuramanime    | butuh VPN, link error |
 | Kuronime      | Bekerja  |
