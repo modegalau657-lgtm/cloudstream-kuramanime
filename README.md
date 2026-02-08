@@ -16,20 +16,21 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 
 | 𝘕𝘢𝘮𝘢 𝘌𝘹𝘵𝘦𝘯𝘴𝘪 | 𝘚𝘵𝘢𝘵𝘶𝘴 |
 | ------------- | ------ |
-| Kuramanime    | butuh VPN, link error |
-| Donghub       | Bekerja  |
-| Kuronime      | Bekerja  |
 | Anichin       | Bekerja  |
-| Idlix         | Bekerja  |
-| DutaMovie     | Bekerja  |
-| Melongmovie   | Bekerja  |
-| MovieBox      | Bekerja  |
-| Oploverz      | Bekerja  |
 | Animasu       | Bekerja  |
 | AnimeSail     | Bekerja  |
+| Donghub       | Bekerja  |
+| DutaMovie     | Bekerja  |
+| Funmovieslix  | Bekerja  |
+| Idlix         | Bekerja  |
+| Kuramanime    | butuh VPN, link error |
+| Kuronime      | Bekerja  |
+| Melongmovie   | Bekerja  |
+| MovieBox      | Bekerja  |
+| Nekopoi       | Bekerja  |
+| Nimegami      | Bekerja  |
+| Oploverz      | Bekerja  |
 | Samehadaku    | Bekerja  |
-| Nekopoi       | Bekerja |
-| Funmovieslix  | Bekerja |
 
 ## 📌Cara Menggunakan
 
