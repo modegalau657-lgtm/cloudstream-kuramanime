@@ -29,6 +29,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | AnimeSail     | Bekerja  |
 | Samehadaku    | Bekerja  |
 | Nekopoi       | Bekerja |
+| Funmovieslix  | Bekerja |
 
 ## 📌Cara Menggunakan
 
