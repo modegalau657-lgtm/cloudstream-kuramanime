@@ -26,6 +26,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Funmovieslix  | Bekerja  |
 | Filmkita      | Bekerja  |
 | Idlix         | Bekerja  |
+| IndoMax       | Bekerja  |
 | Kuramanime    | butuh VPN, link error |
 | Kuronime      | Bekerja  |
 | Melongmovie   | Bekerja  |
