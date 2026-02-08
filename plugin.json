@@ -264,5 +264,19 @@
     "fileSize": 20990,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Indomax.png",
     "description": "Indomax sub indo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/IndonesiaTV.cs3",
+    "status": 1,
+    "version": 3,
+    "apiVersion": 1,
+    "name": "IndonesiaTv",
+    "internalName": "IndonesiaTv",
+    "authors": ["Alivsc", "Sofie"],
+    "language": "id",
+    "tvTypes": ["Live"],
+    "fileSize": 14590,
+    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/IndonesiaTv.jpg",
+    "description": "IndonesiaTv Live streaming"
   }
 ]
