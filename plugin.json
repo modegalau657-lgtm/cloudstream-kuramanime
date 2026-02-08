@@ -232,7 +232,7 @@
     "internalName": "FilmKita",
     "authors": ["Asm0d3usX","Alivsc"],
     "language": "id",
-    "tvTypes": ["TvSeries",  "OVA", "Movie","AsianDrama"],
+    "tvTypes": ["TvSeries",  "AsianDrama", "Movie"],
     "fileSize": 22090,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Filmkita.jpg",
     "description": "Filmkita sub indo"
