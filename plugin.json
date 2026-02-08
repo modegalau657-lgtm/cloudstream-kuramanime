@@ -200,13 +200,13 @@
     "status": 1,
     "version": 3,
     "apiVersion": 1,
-    "name": "Funsmovieslix",
-    "internalName": "Funsmovieslix",
+    "name": "Fusmovieslix",
+    "internalName": "Funmovieslix",
     "authors": ["Phisher98", "Alivsc"],
     "language": "id",
     "tvTypes": ["Movie", "TvSeries"],
     "fileSize": 21220,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/funmovieslix.png",
-    "description": "Funsmovieslix sub indo"
+    "description": "Funmovieslix sub indo"
   }
 ]
