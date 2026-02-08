@@ -278,5 +278,20 @@
     "fileSize": 14590,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/IndonesiaTv.jpg",
     "description": "IndonesiaTv Live streaming"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Otakudesu.cs3",
+    "status": 1,
+    "version": 17,
+    "apiVersion": 1,
+    "name": "Otakudesu",
+    "internalName": "Otakudesu",
+    "authors": ["Sofie, Alivsc"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie","Anime","OVA"],
+    "fileSize": 23970,
+    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Otakudesu.png"
+,
+    "description": "Otakudesu sub indo"
   }
 ]
