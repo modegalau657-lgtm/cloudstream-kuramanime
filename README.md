@@ -27,6 +27,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Filmkita      | Bekerja  |
 | Idlix         | Bekerja  |
 | IndoMax       | Bekerja  |
+| IndonesiaTv   | Bekerja  |
 | Kuramanime    | butuh VPN, link error |
 | Kuronime      | Bekerja  |
 | Melongmovie   | Bekerja  |
@@ -34,6 +35,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Nekopoi       | Bekerja  |
 | Nimegami      | Bekerja  |
 | Oploverz      | Bekerja  |
+| Otakudesu     | Bekerja  |
 | Samehadaku    | Bekerja  |
 
 ## 📌Cara Menggunakan
