@@ -222,5 +222,19 @@
     "fileSize": 22330,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Nimegami.png",
     "description": "Nimegami sub indo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Filmkita.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "FilmKita",
+    "internalName": "FilmKita",
+    "authors": ["Asm0d3usX","Alivsc"],
+    "language": "id",
+    "tvTypes": ["TvSeries",  "OVA", "Movie","AsianDrama"],
+    "fileSize": 22090,
+    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Filmkita.jpg",
+    "description": "Filmkita sub indo"
   }
 ]
