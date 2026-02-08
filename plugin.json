@@ -250,5 +250,19 @@
     "fileSize": 12520,
     "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Dubbindo.png",
     "description": "Dubbindo sub indo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Indomax.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "IndoMax",
+    "internalName": "IndoMax",
+    "authors": ["Asm0d3usX","Alivsc"],
+    "language": "id",
+    "tvTypes": ["TvSeries",  "Anime", "Movie","AsianDrama"],
+    "fileSize": 20990,
+    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Indomax.png",
+    "description": "Indomax sub indo"
   }
 ]
