@@ -43,9 +43,8 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/repo.json
 ``` 
 5. Klik "Tambahkan".
-6. Atau cukup klik [DISINI](https://tinyurl.com/5d2khasw)  
-7. Ekstensi yang tersedia akan muncul di daftar.
-8. Pilih ekstensi yang ingin Anda instal dan klik "Instal".
+6. Ekstensi yang tersedia akan muncul di daftar.
+7. Pilih ekstensi yang ingin Anda instal dan klik "Instal".
 ##
 
 *📝Catatan*
